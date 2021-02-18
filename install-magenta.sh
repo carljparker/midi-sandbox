@@ -4,7 +4,7 @@
 # an environment which is already activated, nothing changes.
 #
 conda activate midi-data515 
-pip install mido
+pip install magenta
 
 
 # --- END --- #
